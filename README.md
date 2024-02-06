@@ -74,7 +74,6 @@ curl -X POST \
   -H 'Content-Type: application/json' \
   -d '{
     "auth": "YourServerPasscode",
-    "session": "UserSessionHash",
     "username": "NewUsername",
     "password": "NewPassword",
     "discord": "DiscordID"
@@ -111,3 +110,8 @@ curl -X POST \
     "auth": "YOUR_AUTH_CODE"
 }'
 ```
+
+# Responses (note: to do)
+- **Upload a stage**
+Wrong "auth":
+```{"message":"Not authorized"}```
