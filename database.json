@@ -1,0 +1,34 @@
+{
+    "stages": [
+        {
+            "id": "ABCD-1234-EFGH-5678",
+            "title": "Test level 1",
+            "description": "This is a test level",
+            "author": "Server",
+            "file": "testlevel.cw",
+            "likes": 1,
+            "dislikes": 0,
+            "difficulty": "Normal",
+            "reacted": [
+                "Server"
+            ],
+            "timestamp": 0
+        }
+    ],
+    "accounts": [
+        {
+            "id": 1,
+            "username": "Server",
+            "password": "123456",
+            "uploads": [],
+            "banned": false
+        }
+    ],
+    "sessions": [
+        {
+            "time": 1700000000,
+            "user": "Server",
+            "hash": "cl-mmbEizxxCXJPmvh1fm2I8AkNLk7qkNdr4xj9ZTe5PQ0Dj2bzpM-X5J3rnswS8SyQoGGpZ99K8ER0G"
+        }
+    ]
+}
