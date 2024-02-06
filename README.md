@@ -1,5 +1,7 @@
 # Super Mario Maker Creative Land Servers
 
+Join the [Discord server](https://discord.gg/bZneq8wHEM)
+
 # Requests
 ## Stages
 All these examples are with localhost, replace "127.0.0.1" with the real IP adress of the server.
