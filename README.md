@@ -103,7 +103,7 @@ curl -X POST \
 - **Example endpoint**
 ```bash
 curl -X POST \
-  http://localhost:5000/api/example \
+  http://127.0.0.1:14984/api/example \
   -H 'Content-Type: application/json' \
   -d '{
     "auth": "YOUR_AUTH_CODE"
