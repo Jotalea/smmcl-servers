@@ -91,16 +91,6 @@ curl -X POST \
 }'
 ```
 ## Misc.
-- **Make the bot send a message**
-```bash
-curl -X POST \
-  http://127.0.0.1:14984/api/bot/send \
-  -H 'Content-Type: application/json' \
-  -d '{
-    "channel_id": "123456789",
-    "message": "Hello world!"
-}'
-```
 - **Example endpoint**
 ```bash
 curl -X POST \
